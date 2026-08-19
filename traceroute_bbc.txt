@@ -1,0 +1,27 @@
+C:\Users\ahsoh\OneDrive\Desktop\Traceroute_Project_2202038\src>python traceroute.py bbc.com
+Traceroute to bbc.com (151.101.64.81)
+Max hops: 30, Timeout: 1.0s
+------------------------------------------------------------
+
+================================================================================
+TRACEROUTE IMPLEMENTATION
+================================================================================
+Destination: bbc.com (151.101.64.81)
+Max Hops: 30
+Probes per hop: 3
+Timeout: 1.0s
+================================================================================
+
+ HOP   HOSTNAME / IP ADDRESS              RTT
+------------------------------------------------------------
+ 1  *
+ 2  *
+ 3  *
+ 4  *
+ 5  *
+ 6  151.101.64.81 (151.101.64.81)  54.00ms
+------------------------------------------------------------
+
+✓ Trace complete - Destination reached!
+
+Traceroute completed for bbc.com

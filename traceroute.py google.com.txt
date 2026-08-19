@@ -1,0 +1,42 @@
+C:\Windows\System32>cd C:\Users\ahsoh\OneDrive\Desktop\Traceroute_Project_2202038
+
+C:\Users\ahsoh\OneDrive\Desktop\Traceroute_Project_2202038>cd src
+
+C:\Users\ahsoh\OneDrive\Desktop\Traceroute_Project_2202038\src>python traceroute.py google.com
+Traceroute to google.com (64.233.170.139)
+Max hops: 30, Timeout: 1.0s
+------------------------------------------------------------
+
+================================================================================
+TRACEROUTE IMPLEMENTATION
+================================================================================
+Destination: google.com (64.233.170.139)
+Max Hops: 30
+Probes per hop: 3
+Timeout: 1.0s
+================================================================================
+
+ HOP   HOSTNAME / IP ADDRESS              RTT
+------------------------------------------------------------
+ 1  *
+ 2  *
+ 3  *
+ 4  *
+ 5  *
+ 6  *
+ 7  *
+ 8  *
+ 9  *
+10  *
+11  *
+12  *
+13  *
+14  *
+15  *
+16  *
+17  *
+18  *
+19  *
+20  *
+21  sg-in-f139.1e100.net (64.233.170.139)  64.27ms
+------------------------------------------------------------
