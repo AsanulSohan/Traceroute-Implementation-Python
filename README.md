@@ -25,10 +25,10 @@ This project implements a complete traceroute tool using Python and ICMP protoco
 
 ## Installation
 
-### Linux/Mac
+### Linux/Mac/Windows
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/traceroute-project.git
+git clone https://github.com/AsanulSohan/Traceroute-Implementation-Python.git
 
 # Navigate to project directory
 cd traceroute-project
